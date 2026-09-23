@@ -2,17 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F0FF,50:7B61FF,100:FF00E5&height=200&section=header&text=DANIEL%20KADOTA&fontSize=56&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=FRONT-END%20%2F%2F%20S%C3%83O%20PAULO%20%C2%B7%20BR&descAlignY=68&descSize=16" width="100%" alt="Daniel Kadota"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+%E2%80%A2+Cruzeiro+do+Sul;Estudante+de+Front-end;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript;Em+busca+de+uma+vaga+de+est%C3%A1gio" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=600&lines=T%C3%A9cnico+em+ADS+%E2%80%A2+Proz+Educa%C3%A7%C3%A3o;Estudante+de+Front-end;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript;Em+busca+de+uma+vaga+de+est%C3%A1gio" alt="Typing SVG"/>
 
 <img src="https://img.shields.io/badge/BUSCANDO-EST%C3%81GIO-00F0FF?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/ADS-CRUZEIRO%20DO%20SUL-7B61FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/T%C3%89CNICO%20EM%20ADS-PROZ%20EDUCA%C3%87%C3%83O-7B61FF?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/LOCAL-S%C3%83O%20PAULO%20%C2%B7%20BR-FF00E5?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
 ## `> sobre_mim`
 
-Olá! Sou o **Daniel Kadota**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **Universidade Cruzeiro do Sul** e de **desenvolvimento Front-end**, em São Paulo. 👋
+Olá! Sou o **Daniel Kadota**, de São Paulo, formado no **curso técnico em Análise e Desenvolvimento de Sistemas (ADS)** pela **Proz Educação** e estudante de **desenvolvimento Front-end**. 👋
 
 Estou construindo minha base com **HTML semântico e CSS moderno** e estudo **JavaScript** todos os dias, aplicando o que aprendo em projetos próprios.
 
@@ -21,7 +21,7 @@ Estou construindo minha base com **HTML semântico e CSS moderno** e estudo **Ja
 ```js
 const daniel = {
   local:     "São Paulo, BR",
-  formacao:  "ADS - Cruzeiro do Sul",
+  formacao:  "Técnico em ADS - Proz Educação",
   stack:     ["HTML", "CSS"],
   estudando: ["JavaScript"],
   buscando:  "estágio em Front-end",
@@ -77,9 +77,9 @@ App para adicionar, concluir, excluir e filtrar tarefas (todas, pendentes e conc
 ```bash
 daniel@kadota:~$ ./objetivos --status
 
+  [ ✔ CONCLUÍDO    ]  Técnico em ADS - Proz Educação
   [ ✔ CONCLUÍDO    ]  Fundamentos de HTML semântico e CSS
   [ ✔ CONCLUÍDO    ]  Primeiro app em JavaScript (Lista de Tarefas)
-  [ ▶ EM ANDAMENTO ]  Graduação em ADS - Cruzeiro do Sul
   [ ▶ EM ANDAMENTO ]  JavaScript: lógica e manipulação do DOM
   [ ▶ EM ANDAMENTO ]  Projeto Job Tracker
   [ ○ PRÓXIMO      ]  Consumir APIs com fetch e async/await
